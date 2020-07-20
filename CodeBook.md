@@ -4,7 +4,7 @@ This codebook describes the variables and data for the Finaltidydata set.
 
 ## Variables Description
 
-**Data downloaded from the project course**  
+**Variables downloaded from the project course**  
 
 features - features.txt file  
 
